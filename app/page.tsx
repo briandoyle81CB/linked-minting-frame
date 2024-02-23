@@ -6,12 +6,12 @@ const frameMetadata = getFrameMetadata({
   buttons: [
     {
       action: 'link',
-      label: 'Link to Google',
-      target: 'https://www.google.com',
+      label: 'Mint',
+      target: 'https://mint.fun/base/0x7f965fA45d6D0a34C141120f4Ceccd39a455a6a4',
     },
   ],
   image: {
-    src: `${NEXT_PUBLIC_URL}/park-3.png`,
+    src: `${NEXT_PUBLIC_URL}/2024-a-base-odyssey.png`,
     aspectRatio: '1:1',
   },
 });
