@@ -7,7 +7,7 @@ const frameMetadata = getFrameMetadata({
     {
       action: 'link',
       label: 'Mint',
-      target: 'https://mint.fun/base/0x7f965fA45d6D0a34C141120f4Ceccd39a455a6a4',
+      target: 'https://mint.fun/base/0xd631196c96bDF9c31D755eA49d527bDacc89f352',
     },
   ],
   image: {
