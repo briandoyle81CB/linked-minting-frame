@@ -33,7 +33,7 @@ export default function Page() {
   return (
     <>
       <h1>Linked Minting Frame</h1>
-      <p>TODO: Click here to learn how to make this!</p>
+      <a href="https://docs.base.org/building-with-base/guides/linked-minting-frame">Click here to learn how to make this frame!</a>
     </>
   );
 }
